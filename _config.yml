@@ -1,5 +1,5 @@
 # Site settings
-title: Antgineers
+title: antgineers
 SEOTitle: 蚂蚁工程 | Antgineers
 header-img: img/home-bg.jpg
 email: liangchis0925@gmail.com
@@ -68,7 +68,7 @@ ga_domain: antgineers.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "每天都‘做点方案，写点文档，敲点代码’ 像蚂蚁一样每件事一点一点地去做
+sidebar-about-description: "每天都‘做点方案，写点文档，敲点代码’ 像蚂蚁一样每件事一点一点地去做"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
